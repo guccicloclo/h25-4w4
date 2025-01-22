@@ -1,0 +1,18 @@
+/*///////
+*Fichier principal de la structure sass
+*/
+/*/////////
+*Les variables
+*/
+@import url("variables/couleur");
+/*/////////
+*Les regles de style de base
+*/
+@import url("base/liens");
+@import url("base/simple");
+/*/////////
+*Les regles de style des composants
+*/
+@import url("composants/menu");
+@import url("composants/pied-de-page");
+@import url("composants/zone-recherche");/*# sourceMappingURL=style.css.map */
